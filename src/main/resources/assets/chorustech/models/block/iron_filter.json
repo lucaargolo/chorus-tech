@@ -1,0 +1,19 @@
+{
+  "textures": {
+    "0": "chorustech:block/iron_filter"
+  },
+  "elements": [
+    {
+      "from": [4, 4, 0],
+      "to": [12, 12, 3],
+      "faces": {
+        "north": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#0"},
+        "east": {"uv": [13, 4, 16, 12], "rotation": 180, "texture": "#0"},
+        "south": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#0"},
+        "west": {"uv": [0, 4, 3, 12], "rotation": 180, "texture": "#0"},
+        "up": {"uv": [4, 0, 12, 3], "rotation": 180, "texture": "#0"},
+        "down": {"uv": [4, 13, 12, 16], "rotation": 180, "texture": "#0"}
+      }
+    }
+  ]
+}

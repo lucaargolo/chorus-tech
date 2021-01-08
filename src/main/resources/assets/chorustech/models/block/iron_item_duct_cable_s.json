@@ -1,0 +1,17 @@
+{
+  "textures": {
+    "0": "chorustech:block/iron_item_duct"
+  },
+  "elements": [
+    {
+      "from": [5, 5, 3],
+      "to": [11, 11, 5],
+      "faces": {
+        "east": {"uv": [14, 0, 16, 6], "rotation": 180, "texture": "#0"},
+        "west": {"uv": [14, 0, 16, 6], "rotation": 180, "texture": "#0"},
+        "up": {"uv": [14, 0, 16, 6], "rotation": 270, "texture": "#0"},
+        "down": {"uv": [14, 0, 16, 6], "rotation": 90, "texture": "#0"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "chorustech:block/duct",
+  "textures": {
+    "0": "chorustech:block/iron_item_duct",
+    "particle": "chorustech:block/iron_item_duct"
+  }
+}
